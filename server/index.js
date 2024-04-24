@@ -33,3 +33,4 @@ app.use(cors());
 app.use("/user", require("./routes/user"));
 
 app.listen(5000, () => console.log("Server is running on port 5000"));
+// coment
